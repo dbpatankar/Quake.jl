@@ -1,0 +1,4 @@
+#+title: Quake.jl
+
+* Introduction
+This is a package written to assist and make day-to-day tasks of a seismologist or earthquake engineer easier.
